@@ -1,5 +1,2 @@
 # Point-of-explosion-detection
-# Point-of-explosion-detection
-# Point-of-explosion-detection
-# Point-of-explosion-detection
-# Point-of-explosion-detection
+本项目提供了一种基于红外视频的导弹爆炸计数以及记录炸点坐标的自动化方法，该项目在QT和OpenCV的基础上进行实现，提供了具有显示视频画面、实时爆炸次数和位置坐标更新、历史坐标记录以及查看历史爆炸照片的简洁的UI界面。
